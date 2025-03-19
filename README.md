@@ -7,4 +7,4 @@ The application is available in Google Play Store.
 
 # Screenshot
 
-![alt tag](https://raw.githubusercontent.com/fsiamp/mobiquotes-app/main/mobiscreenshot.png)
+![alt tag](https://raw.githubusercontent.com/donkeyrepos/mobiquotes-app/main/mobiscreenshot.png)
